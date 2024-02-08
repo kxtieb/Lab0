@@ -5,7 +5,7 @@ module tb ();
    logic 	b;
    logic 	c;
    logic 	sum;
-   logic    cout;
+   logic        cout;
    logic        clk;   
    
   // instantiate device under test
